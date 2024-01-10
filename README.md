@@ -11,7 +11,17 @@ Has the stuff that gets ran on the computer like exploit and server.
 Contains the scripts used in-game to get the scripts and run them.
 
 ## Showcase
-https://github.com/Roblox-Thot/fakesploit/assets/67937010/015e7199-95ba-449b-b0d2-c1968208e7b7
+<details>
+  <summary>Serverside example</summary>
 
-https://github.com/Roblox-Thot/FakeSploit/assets/67937010/2b579e55-8862-4836-ac45-cf16da6f99b6
+https://github.com/Roblox-Thot/fakesploit/assets/67937010/015e7199-95ba-449b-b0d2-c1968208e7b7
+  
+</details>
+
+<details>
+  <summary>Using a fake exploit UI</summary>
+
+https://github.com/Roblox-Thot/FakeSploit/assets/67937010/69d92d13-7e48-4405-a070-18a78781e480
+  
+</details>
 
