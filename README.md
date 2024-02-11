@@ -1,6 +1,9 @@
 # FakeSploit (a.k.a. "Arcane")
 Showing how easy it is to make a fake Roblox exploit.
 
+> [!WARNING]  
+> This edits Roblox's memory so it could lead to a ban!
+
 > [!NOTE]  
 > This is for educational purposes only and I will not give help on anything here as this is just to show not to trust everything
 
